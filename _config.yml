@@ -23,7 +23,7 @@ instagram_username: cash_hola
 github_username:  foragingformore
 domain: foragingformore.github.io
 url: https://foragingformore.github.io
-baseurl: /foragingformore/
+baseurl: /foraging-for-more/
 
 # Build settings
 markdown: kramdown
