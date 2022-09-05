@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Oh, hey there!
+Poetry, prose, and pictures for finding meaning amidst people, plants, and mushrooms.

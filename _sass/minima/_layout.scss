@@ -45,8 +45,8 @@
 }
 
 .home {
-  text-align: center;
-  color: $primary-color;
+  // text-align: center;
+  // color: $primary-color;
 }
 
 .site-nav {
@@ -133,7 +133,6 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
-  background-color: $tertiary-color;
 }
 
 .footer-heading {
@@ -146,11 +145,6 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
-  margin-bottom: 0;
-  
-  .svg-icon {
-    fill: $brand-color-inverse;
-  }
 }
 
 .footer-col-wrapper {
