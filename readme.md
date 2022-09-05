@@ -16,7 +16,7 @@ I recommend developing your website on a laptop so that you can view your websit
 ```cd ~/Documents/hello-world-website```
 3. run
 ```bundle exec jekyll serve -l```
-4. open web browser! http://127.0.0.1:4000/
+4. open web browser! http://127.0.0.1:4000/ or http://localhost:4000
 
 
 # How to format posts with Markdown
